@@ -2,6 +2,7 @@
 My personal landing page. Maybe blog. Not sure yet.
 
 Design / theme: Idk. Something modern & minimalist would be preferred.
+
 Content: 
 - Personal profile
 - Social media links
